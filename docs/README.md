@@ -7,5 +7,5 @@ This documentation is written in LaTeX, with the Free Software editor TeXstudio.
 In Debian, stay ready to download tons of nonsense fonts:
 
 ```
-sudo apt install texstudio texlive-fonts-extra-links texlive-latex-extra
+sudo apt install texstudio texlive-fonts-extra-links texlive-latex-extra texlive-fonts-extra
 ```
