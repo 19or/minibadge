@@ -49,7 +49,7 @@ Options:
 ### Infrared subcommand
 
 ```
-> cargo run -q -- help send-nec
+> cargo run -q --help send-nec
 Use the badge to send an infrared NEC command
 
 Usage: minibage-cli send-nec [OPTIONS] --address <ADDRESS> --command <COMMAND>
